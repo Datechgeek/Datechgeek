@@ -43,9 +43,7 @@ AI Stack:    LangChain, Chroma, Gemini 2.5 Pro, GPT-5, W&B
 
 ### 📊 GitHub Activity
 
-![](https://github-readme-stats.vercel.app/api?username=Datechgeek&show_icons=true&theme=radical&hide=issues,prs&include_all_commits=true&custom_title=Micah%20Okpara's%20GitHub%20Stats&show=reviews,prs_merged,prs_merged_percentage)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Datechgeek&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Datechgeek&layout=compact&theme=radical&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

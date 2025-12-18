@@ -22,12 +22,12 @@ I build AI tools, software, and systems.
 
 ### 🔥 Tech Stack
 ```
-Languages:      Python, SQL
-Backend:        FastAPI, Streamlit
-Core ML:        TensorFlow, Scikit-Learn, Keras, XGBoost, Pandas
-Cloud:          AWS, GCP, OCI (Oracle Cloud Infrastructure)
-Tools:          Git, Anaconda, Jupyter, MongoDB
-AI Stack:       LangChain, Chroma, Gemini 2.5 Pro, GPT-5, W&B
+Languages:   Python, SQL
+Backend:     FastAPI, Streamlit
+Core ML:     TensorFlow, Scikit-Learn, Keras, XGBoost, Pandas
+Cloud:       AWS, GCP, OCI (Oracle Cloud Infrastructure)
+Tools:       Git, Anaconda, Jupyter, MongoDB
+AI Stack:    LangChain, Chroma, Gemini 2.5 Pro, GPT-5, W&B
 ```
 
 ---

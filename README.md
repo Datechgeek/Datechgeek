@@ -1,9 +1,9 @@
+<div align="center">
+
 # Hi, I'm Micah Okpara 👋🏾
 
 **ML Engineer • Data Scientist • AI Builder • Data Wrangler**  
 I build AI tools, software, and systems.
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micah-okpara/)
 [![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Micah_AI)

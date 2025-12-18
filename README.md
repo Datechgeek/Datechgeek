@@ -57,4 +57,4 @@ AI Stack:    LangChain, Chroma, Gemini 2.5 Pro, GPT-5, W&B
 
 ---
 
-*"Building intelligent systems, one model at a time."*
+*"Unlocking Insights, Building data-driven solutions, Creating Exponential Value."*

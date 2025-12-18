@@ -43,7 +43,7 @@ AI Stack:    LangChain, Chroma, Gemini 2.5 Pro, GPT-5, W&B
 
 ### 📊 GitHub Activity
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Datechgeek&theme=radical)](https://git.io/streak-stats)
+![Micah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Datechgeek&show_icons=true&theme=radical&hide=issues&include_all_commits=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Datechgeek&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 

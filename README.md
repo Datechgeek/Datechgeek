@@ -1,10 +1,14 @@
-# Hi, I'm Micah Okpara 👋
+# Hi, I'm Micah Okpara 👋🏾
 
 **ML Engineer • Data Scientist • AI Builder • Data Wrangler**  
 I build AI tools, software, and systems.
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micah-okpara/)
 [![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Micah_AI)
+
+</div>
 
 ---
 
@@ -37,9 +41,7 @@ AI Stack:    LangChain, Chroma, Gemini 2.5 Pro, GPT-5, W&B
 
 ---
 
-### 📊 GitHub Stats
-
-![Micah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Datechgeek&show_icons=true&theme=radical)
+### 📊 GitHub Activity
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Datechgeek&theme=radical)](https://git.io/streak-stats)
 
@@ -49,8 +51,11 @@ AI Stack:    LangChain, Chroma, Gemini 2.5 Pro, GPT-5, W&B
 
 ### 💬 Let's Connect
 
-* 💼 LinkedIn → [linkedin.com/in/micah-okpara](https://www.linkedin.com/in/micah-okpara/)
-* 🐦 X (Twitter) → [x.com/Micah_AI](https://x.com/Micah_AI)
+<div align="center">
+
+💼 [LinkedIn](https://www.linkedin.com/in/micah-okpara/) • 🐦 [X (Twitter)](https://x.com/Micah_AI)
+
+</div>
 
 ---
 

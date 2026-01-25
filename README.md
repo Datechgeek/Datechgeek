@@ -15,7 +15,7 @@ I build AI tools, software, and systems.
 ### 🧠 What I Do
 
 * 🤖 **AI Engineering** — LangChain • Chroma • Gemini 2.5 Pro • GPT-5 • W&B
-* 🔬 **ML Engineering** — TensorFlow • Scikit-Learn • XGBoost • MongoDB
+* 🔬 **ML Engineering** — Pytorch • Scikit-Learn • XGBoost • MongoDB
 * 📊 **Data Science & Analysis** — Pandas • NumPy • Plotly • Statistical Modeling
 
 ---
@@ -24,7 +24,7 @@ I build AI tools, software, and systems.
 ```
 Languages:   Python, SQL
 Backend:     FastAPI, Streamlit
-Core ML:     TensorFlow, Scikit-Learn, Keras, XGBoost, Pandas
+Core ML:     Pytorch, Scikit-Learn, Keras, XGBoost, Pandas
 Cloud:       AWS, GCP, OCI (Oracle Cloud Infrastructure)
 Tools:       Git, Anaconda, Jupyter, MongoDB
 AI Stack:    LangChain, Chroma, Gemini 2.5 Pro, GPT-5, W&B
